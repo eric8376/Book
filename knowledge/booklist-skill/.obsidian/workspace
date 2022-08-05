@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "2f2894a4a92d379c",
+    "type": "split",
+    "children": [
+      {
+        "id": "02fb2b0db1b1ef90",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "学习能力/00_我的书单.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edf71a91bd5a2ac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdd54b36862fc8d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d53f2b564f17c777",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9471d87d87e1ee5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d02849c26465843a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "126dead4a61b1c50",
+    "type": "split",
+    "children": [
+      {
+        "id": "be4377f149b279ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bb0530e845662b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学习能力/00_我的书单.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f5f20e4d4529dce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "学习能力/00_我的书单.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "deef2541f83a28bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8b9a4a3edff7f01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习能力/00_我的书单.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "02fb2b0db1b1ef90",
+  "lastOpenFiles": [
+    "学习能力/00_我的书单.md",
+    "办公/excel/为什么精英都是excel控.md"
+  ]
+}

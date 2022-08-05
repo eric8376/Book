@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "4bd8754d48dc751c",
+    "type": "split",
+    "children": [
+      {
+        "id": "968fd665f4ee081f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "booklist-skill/亲子/乐器/钢琴.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36fa63511bec9a72",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3b25be0a7a9483d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9fe5487f278df41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c7392eb5188e064",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4cc34045a8f79979",
+    "type": "split",
+    "children": [
+      {
+        "id": "76e5737a3ffcc298",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e8af61e1dac6d1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "booklist-skill/亲子/乐器/钢琴.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "968fd665f4ee081f",
+  "lastOpenFiles": [
+    "booklist-skill/亲子/乐器/钢琴.md",
+    "booklist-skill/办公/excel/为什么精英都是excel控.md"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "canvasSize": 120000,
+  "headLevel": 0,
+  "fontSize": 10,
+  "background": "transparent",
+  "layout": "mindmap",
+  "layoutDirect": "right",
+  "protocol": "jump-to-pdf",
+  "registerPdfEvent": true,
+  "viewerTheme": 1,
+  "mindmapmode": "rich",
+  "parseMindMap": true,
+  "annotateTop": 0,
+  "annotateBottom": 0,
+  "highlightFormat": "\nPage:{{page}}\nText:{{highlightText}} \nComment:{{comment}}\n^{{id}}\n",
+  "uid": "00p01000s01100t00q00o01000t00o01200r00s",
+  "setup": 1647562800133,
+  "activeCode": "5f914817ba5a95dc6fa8341bca71b0959507727d92111a0e1189a93cbc45c50f960e8ae51a39e5990b4ac781f3eb276fe12a51f4ac9d7c01bdbdedbfbb23"
+}
